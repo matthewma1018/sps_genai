@@ -1,6 +1,4 @@
 /gentext-app/app/bigram_model_old.py
-/NN-app/data
-/NN-app/__pycache__
-/__pycache__
-gentext-app/__pycache__
-/NN-app/.idea
+/NN-app/data/
+__pycache__/
+.idea/
