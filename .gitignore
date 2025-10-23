@@ -2,3 +2,5 @@
 /NN-app/data/
 __pycache__/
 .idea/
+/GAN-app/data/
+.venv/
