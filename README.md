@@ -1,11 +1,9 @@
-Assignment 1 is in gentext-app, ignore main.py in this directory
-generate_text prints an error message if the input is not in the model's vocabulary
-For brevity, word_embedding only prints the first 10 elements
+Assignment 4 is in DIFF-EBM-app, please ignore main.py in this directory
 
 Docker commands:
 
-docker build -t gentext-app .
-docker run -p 8000:80 gentext-app
+docker build -t diff-ebm-app .
+docker run -p 8000:80 diff-ebm-app
 
 Access at: 
 

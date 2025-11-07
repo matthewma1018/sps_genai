@@ -1,6 +1,5 @@
 /gentext-app/app/bigram_model_old.py
-/NN-app/data/
 __pycache__/
 .idea/
-/GAN-app/data/
+data/
 .venv/
